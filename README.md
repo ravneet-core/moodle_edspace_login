@@ -13,3 +13,6 @@ Moodle 2.8+; 2.9+ , 3.0+, 3.1+ and 3.2+
 Author
 ------
 Ravneet Suman <ravneet.suman@core-ed.ac.nz>
+
+
+Internal note: after download remove moodle_ from the folder name, compress the folder and then upload as a plugin.
